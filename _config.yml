@@ -16,10 +16,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "JM 블로그"
+title: "쟌문 기록공간"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
-name: "JM 블로그"
+name: "쟌문 기록공간"
 description: "현재는 웹 퍼블리셔, 향후 프론트엔드로 나아가기 위한 기록 공간"
 url: "https://yjm7575.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
